@@ -16,7 +16,7 @@ nav {
 
 nav a {
     color: #fff;
-    text-decoration: none
+    text-decoration: none;
     padding: 0.5rem 1rem;
   
       }
@@ -61,6 +61,7 @@ margin-top: 2rem;
     font-size: 24px;
     color: #333;
     text-decoration: none;
+    margin-left: auto;
 }
 
 .info {
