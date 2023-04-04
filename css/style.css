@@ -41,3 +41,30 @@ margin-top: 2rem;
     max-width: 100%;
     height: auto;
 }
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+.logo {
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+}
+
+.info {
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+}
+
+.info {
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+}
